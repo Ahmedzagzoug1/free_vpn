@@ -28,5 +28,15 @@ A simple and elegant VPN app built using **Flutter**. The app allows users to co
 - **Flutter** – Cross-platform framework
 - **Dart** – Programming language
 -  **Java** – Programming language
-- **VPN API / Provider** 
+- **VPN API / Provider**
+
+  
+  ---
+  ## 📱 Screenshots
+
+### 🔹 Home Screen
+![Home](https://github.com/Ahmedzagzoug1/free_vpn/blob/main/screenshots/vpn3.png)
+
+### 🔹 Connected Screen
+![Connected](screenshots/vpn1.png)
 
