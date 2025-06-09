@@ -1,16 +1,32 @@
-# untitled
+# 🌐 Free VPN App
 
-A new Flutter project.
+A simple and elegant VPN app built using **Flutter**. The app allows users to connect to VPN servers for secure and private internet browsing.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<!-- You can upload images to the repo and reference them here -->
+<!-- Example:
+![Home Screen](screenshots/home.png)
+![Connected Screen](screenshots/connected.png)
+-->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- 🔐 Connect to VPN with a single tap
+- 📊 Display connection status
+- 🌍 Multiple VPN server options 
+- ⚙️ Clean and simple UI with modern design
+
+---
+
+## 🛠️ Built With
+
+- **Flutter** – Cross-platform framework
+- **Dart** – Programming language
+-  **Java** – Programming language
+- **VPN API / Provider** 
+
