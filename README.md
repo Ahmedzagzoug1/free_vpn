@@ -6,7 +6,7 @@ A secure and simple Free VPN mobile application built using the Flutter framewor
 
 - 🔒 Connect to free VPN servers
 - 🌍 View and select from available countries
-- 📱 Cross-platform: Works on Android & iOS
+- 📱 native integrations with android
 - 🧪 Smooth and clean user interface
 - ⚡ Built using Flutter and Dart
 
