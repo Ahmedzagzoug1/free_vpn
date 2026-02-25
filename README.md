@@ -15,7 +15,7 @@ A secure and simple Free VPN mobile application built using the Flutter framewor
 - **Flutter** – UI Framework
 - **Dart** – Programming Language
 - **VPN APIs** – VPN connections
-- **gitX** – State Management 
+- **getX** – State Management 
 - **HTTP** – for API requests
 
 ## 📸 Screenshots
@@ -24,4 +24,10 @@ A secure and simple Free VPN mobile application built using the Flutter framewor
 ![Home Screen](screenshots/vpn2.png)
 
 ![Home Screen](screenshots/vpn1.png)
+
+<p align="center">
+  <a href="https://youtube.com/shorts/JKt1UxL16Ug">
+    <img src="screenshots/vpn1.png" width="300">
+  </a>
+</p>
 
